@@ -3,7 +3,7 @@
 ## Nouvelles Fonctionnalités
 
 * **Onglet et boutons de conversations privées :** Ajout d'un nouvel onglet "Privé" dans l'interface du chat avec l'apparition des boutons
-`+ Privé` et `+ Groupe`.
+ `+ Privé` et `+ Groupe`.
 
 ---
 
