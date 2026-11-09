@@ -2,7 +2,7 @@
 
 ## New Features
 
-- **Private Chat Tab & Buttons:** Added a new "Private" tab to the chat UI featuring **+ Private** and **+ Group** buttons.
+- **Private Chat Tab & Buttons:** Added a new "Private" tab to the chat UI featuring `+ Private` and `+ Group` buttons.
 
 ---
 
