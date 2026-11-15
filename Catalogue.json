@@ -9,10 +9,10 @@
   "gifs": [
     {
       "imageId": 117926246853084,
-      "namegif": "Cat Dancing",
+      "namegif": "Cat Dancing2",
       "category": ["animal"],
       "link": "https://tenor.com/eYr0u1YqLP5.gif",
-      "warperFramerate": 15,
+      "warperFramerate": 10,
       "lastFrame": 1,
       "frames": 65,
       "rows": 9,
