@@ -1,0 +1,66 @@
+{
+  "categories": [
+    { "id": "all", "name": "Tous", "emoji": "✨" },
+    { "id": "animal", "name": "Animaux", "emoji": "🐱" },
+    { "id": "gaming", "name": "Gaming", "emoji": "🎮" },
+    { "id": "anger", "name": "Colère", "emoji": "😡" },
+    { "id": "other", "name": "Divers", "emoji": "🌟" }
+  ],
+  "gifs": [
+    {
+      "imageId": 117926246853084,
+      "namegif": "Cat Dancing",
+      "category": ["animal"],
+      "link": "https://tenor.com/eYr0u1YqLP5.gif",
+      "warperFramerate": 24,
+      "lastFrame": 1,
+      "frames": 65,
+      "rows": 9,
+      "columns": 8
+    },
+    {
+      "imageId": 136807755080372,
+      "namegif": "Robloxlobotomy",
+      "category": ["gaming"],
+      "link": "",
+      "warperFramerate": 24,
+      "lastFrame": 1,
+      "frames": 65,
+      "rows": 9,
+      "columns": 8
+    },
+    {
+      "imageId": 99405504455972,
+      "namegif": "Dog Wearing Shirt How I Walk In",
+      "category": ["animal"],
+      "link": "",
+      "warperFramerate": 15,
+      "lastFrame": 1,
+      "frames": 31,
+      "rows": 6,
+      "columns": 6
+    },
+    {
+      "imageId": 83304861489143,
+      "namegif": "Cat",
+      "category": ["animal"],
+      "link": "",
+      "warperFramerate": 30,
+      "lastFrame": 1,
+      "frames": 300,
+      "rows": 15,
+      "columns": 20
+    },
+    {
+      "imageId": 106082911595642,
+      "namegif": "GrrrrMonday",
+      "category": ["anger"],
+      "link": "",
+      "warperFramerate": 15,
+      "lastFrame": 1,
+      "frames": 27,
+      "rows": 6,
+      "columns": 5
+    }
+  ]
+}
