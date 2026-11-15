@@ -12,7 +12,7 @@
       "namegif": "Cat Dancing",
       "category": ["animal"],
       "link": "https://giphy.com/gifs/Z3C2PBC4rj3cNPjsOX",
-      "warperFramerate": 20,
+      "warperFramerate": 12,
       "lastFrame": 1,
       "frames": 65,
       "rows": 9,
