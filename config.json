@@ -1,12 +1,12 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.2",
   "scripts": [
     {
-      "name": "MonScriptServeur",
+      "name": "TestHello",
       "type": "Script",
       "runContext": "Server",
       "targetService": "ServerScriptService",
-      "githubUrl": "https://raw.githubusercontent.com/RasyneYT/teagblox/refs/heads/main/test.lua"
+      "githubUrl": "https://raw.githubusercontent.com/RasyneYT/teagblox/refs/heads/main/TestHello.lua"
     }
   ]
 }
