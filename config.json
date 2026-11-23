@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "scripts": [
+    {
+      "name": "MonScriptServeur",
+      "type": "Script",
+      "runContext": "Server",
+      "targetService": "ServerScriptService",
+      "githubUrl": "https://raw.githubusercontent.com/RasyneYT/teagblox/refs/heads/main/test.lua"
+    }
+  ]
+}
