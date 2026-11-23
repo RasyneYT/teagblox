@@ -6,7 +6,7 @@
       "type": "Script",
       "runContext": "Server",
       "targetService": "ServerScriptService",
-      "githubUrl": "https://raw.githubusercontent.com/RasyneYT/teagblox/refs/heads/main/TestHello.lua"
+      "githubUrl": "https://raw.githubusercontent.com/RasyneYT/teagblox/refs/heads/main/test.lua"
     }
   ]
 }
